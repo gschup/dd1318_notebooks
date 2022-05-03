@@ -1,6 +1,6 @@
 # DD1318 Notebooks
 
-Jupyter notebooks for KTH DD1318 Programming and Scientific Computing. These notebooks are *supplemental material* to the exercise lecture. They do not represent the full content of the course or the exercise.
+Jupyter notebooks for [KTH DD1318](https://www.kth.se/student/kurser/kurs/DD1318) Programming and Scientific Computing. These notebooks are *supplemental material* to the exercise lecture. They do not represent the full content of the course or the exercise.
 
 ## List of Notebooks
 
